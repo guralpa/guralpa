@@ -4,7 +4,7 @@
 - 📫 More professionally, you can find my email on my website.
 
 ### Current Projects include:
--  💻 `mathlete.ai` as part of n&w s4.
+-  💻 cs19 @ BrownU
 -  🌐 Creating a personal website: https://guralpa.github.io.
 -  🏠 Building a python simulator of the board game Palazzo.
 <!---
